@@ -1,0 +1,10 @@
+{
+  "name": "equipment-monitor",
+  "version": "1.0.0",
+  "description": "equipment-monitor frontend",
+  "main": "index.js",
+  "repository": "equipment-monitor",
+  "author": "Isabell Matic",
+  "license": "MIT",
+  "private": true
+}
